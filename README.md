@@ -9,10 +9,19 @@
 ---
 ### Main 화면
 
-<img width = "80%" src="https://github.com/JeonSeYeon/K-means-algorithm-using-Excel-VBA/assets/45065827/e2c8d423-6bd2-4486-a56a-7b957b32fdd9">
+<img width = "80%" src=>
 
 ---
 ### Cluster 결과 분석 화면
+<img width = "80%" src=>
+
+---
+### Cluster 후 데이터로 군집 확인
+<img width = "80%" src=>
+
+---
+### Cluster 후 차트로 군집 확인
+<img width = "80%" src=>
 
 
 
