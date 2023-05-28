@@ -6,5 +6,7 @@
 
 기본적인 K-means 알고리즘 실행 코드는 https://github.com/gpolic/kmeans-excel 을 참고하여 개발하였다.
 
+<img width = "80%" src="https://github.com/JeonSeYeon/K-means-algorithm-using-Excel-VBA/assets/45065827/e2c8d423-6bd2-4486-a56a-7b957b32fdd9"
+
 
 ###### 고려대학교 교육대학원 컴퓨터교육전공 석사 논문
